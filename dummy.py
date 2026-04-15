@@ -263,4 +263,4 @@ for i in [0, 1, 2, 3]:
     plt.savefig(f"output_images/ConfigA_diagnostic_{i}.png", dpi=150, bbox_inches='tight')
     plt.close(fig)
 
-print("Done! Check the output_images folder for your dashboards.")
+print("Done!")
